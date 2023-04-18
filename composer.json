@@ -1,6 +1,6 @@
 {
-  "name": "nuwber/rabbitevents",
-  "description": "The Nuwber RabbitEvents package",
+  "name": "martynow173/rabbitevents",
+  "description": "The martynow173 fork of Nuwber RabbitEvents package",
   "keywords": ["laravel", "rabbitmq", "events", "broadcast", "publish", "pub", "sub"],
   "type": "library",
   "license": "MIT",
